@@ -1,9 +1,9 @@
-# Welcome to XplainMind Laboratory 👋  
+# Welcome to NextGen Laboratory 👋  
 
-XplainMind is an innovative laboratory housed within the **Artificial Intelligence School** at **Wuhan University**. Led by **Professor Qianqian Xie**, we are dedicated to pioneering research in **Artificial Intelligence (AI)** and fostering interdisciplinary innovation.
+NextGen is an innovative laboratory housed within the **Artificial Intelligence School** at **Wuhan University**. Led by **Professor Qianqian Xie**, we are dedicated to pioneering research in **Artificial Intelligence (AI)** and fostering interdisciplinary innovation.
 
 ## 🙋‍♀️ About Us  
-At XplainMind, we are a collective of passionate researchers committed to exploring, understanding, and pushing the boundaries of AI. By bridging **theory and application**, we strive to develop cutting-edge solutions to contemporary AI challenges.  
+At NextGen, we are a collective of passionate researchers committed to exploring, understanding, and pushing the boundaries of AI. By bridging **theory and application**, we strive to develop cutting-edge solutions to contemporary AI challenges.  
 
 ## 🌈 How You Can Contribute  
 We welcome contributions from students, researchers, and AI enthusiasts. There are multiple ways to engage with us:  
